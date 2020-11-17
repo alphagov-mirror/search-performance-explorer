@@ -1,11 +1,10 @@
 GIT
   remote: https://github.com/alphagov/govuk_frontend_toolkit_gem.git
-  revision: 9bae66b74adc88af12c89b513e52b0c5b6f675de
+  revision: bf8afd715d93ec3e49225c440d14cb012bebad38
   submodules: true
   specs:
     govuk_frontend_toolkit (9.0.0)
       railties (>= 3.1.0)
-      sass (>= 3.2.0)
 
 GEM
   remote: https://rubygems.org/
@@ -100,7 +99,7 @@ GEM
     diff-lcs (1.4.4)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    erubi (1.9.0)
+    erubi (1.10.0)
     execjs (2.7.0)
     ffi (1.13.1)
     figaro (1.2.0)
@@ -295,7 +294,7 @@ GEM
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.7)
+    tzinfo (1.2.8)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
@@ -317,7 +316,7 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.4.0)
+    zeitwerk (2.4.1)
 
 PLATFORMS
   ruby
