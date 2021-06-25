@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/alphagov/govuk_frontend_toolkit_gem.git
-  revision: bf8afd715d93ec3e49225c440d14cb012bebad38
+  revision: 46ccc9d2d92520237644ed3511b2de9d80bd8700
   submodules: true
   specs:
-    govuk_frontend_toolkit (9.0.0)
+    govuk_frontend_toolkit (9.0.1)
       railties (>= 3.1.0)
 
 GEM
@@ -96,7 +96,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     crass (1.0.6)
@@ -125,7 +125,7 @@ GEM
     http-accept (1.7.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (1.8.9)
+    i18n (1.8.10)
       concurrent-ruby (~> 1.0)
     jbuilder (2.10.0)
       activesupport (>= 5.0.0)
@@ -142,7 +142,7 @@ GEM
     logging (2.3.0)
       little-plugger (~> 1.1)
       multi_json (~> 1.14)
-    loofah (2.9.0)
+    loofah (2.10.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -153,12 +153,12 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2021.0225)
     mini_mime (1.0.3)
-    mini_portile2 (2.5.0)
+    mini_portile2 (2.5.3)
     minitest (5.14.4)
     multi_json (1.15.0)
     netrc (0.11.0)
     nio4r (2.5.7)
-    nokogiri (1.11.2)
+    nokogiri (1.11.7)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     null_logger (0.0.1)
